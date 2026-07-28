@@ -1,5 +1,7 @@
 # 🎮 Winanda Store - Game Top Up CLI
 
+![Winanda Store](https://raw.githubusercontent.com/winanda150/game-topup-cli/main/.github/Screenshot%20(211).png)
+
 Aplikasi top up game online berbasis Python yang berjalan melalui Command Line Interface (CLI). Project ini menyediakan fitur autentikasi pengguna, transaksi top up berbagai game, metode pembayaran, serta manajemen akun dalam sebuah aplikasi terminal yang sederhana.
 
 Project ini dibuat sebagai media pembelajaran untuk mengimplementasikan konsep dasar pemrograman Python seperti fungsi (function), percabangan (if-else), perulangan (looping), dictionary, list, file handling, hingga validasi input dalam sebuah studi kasus simulasi top up game online.
